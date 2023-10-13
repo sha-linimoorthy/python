@@ -1,0 +1,16 @@
+Roboflow
+Webscrapping
+Numpy - position indexing C,C++
+Pandas - position indexing,row,column indexing back numpy
+Polars-> like pandas (Big Data)
+Pandas Data manipulation and analysis
+Sql is more faster, we go for panda for only functionality
+Two types of data -> * qualitative * quantitative
+1)Difference between dataframe and database?why database?
+	Functionality and operation
+2)Series VS Dataframe
+	Series=> 1D
+	Dataframe=>2D
+3)Numpy VS Pandas
+	Accessing only by index in NUmpy but rows,columns,index by pandas
+
